@@ -11,4 +11,4 @@ At each level a random colored button is triggered and you have to repeat the sa
 At each level if you succeed to enter the correct pattern, you get a score of 10 times of the level number and immediately moves to the next level.
 If you entered wrong the game stops and you can restart the game again.
 
-You can play the game the game at [Link](https://venkatasaitanish.github.io/Simon-Game/)
+You can play the game at [Link](https://venkatasaitanish.github.io/Simon-Game/)
